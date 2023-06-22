@@ -1,7 +1,9 @@
-# ***LOW COST VR TREAD TECH***
+# WIP - ***LOW COST VR TREAD TECH***
 
 ### **Project Overview**
 This project uses Arduino-powered controls to translate walking motion into USB joystick controls, allowing users to control their computer using a walking motion. The goal is to be easy to build at home using non-specialist parts, keeping costs low and accessibility high.
+
+All files required to program your Arduino board will eb available here, as well as diagrams and assembly instructions.
 
 ### **Arduino board**
 - Joystick library (https://github.com/MHeironimus/ArduinoJoystickLibrary)
